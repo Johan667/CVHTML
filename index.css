@@ -1,0 +1,170 @@
+
+
+@media (min-width: 576px) { 
+
+	.btn{
+		display:none;
+	}
+	}
+
+@media (max-width: 576px) { 
+
+		.basgreen{
+			display:none;
+		}
+		}
+
+@media (max-width: 576px){ 
+
+			.leqr{
+				display:none;
+			}
+			}
+
+@media (max-width: 405px){ 
+
+			.position{
+			font-size:smaller;	
+			display:block;
+				}
+				}
+	
+
+
+	.position{
+		text-align: center;
+		font-size:45px;
+		font-weight: bold;
+		border:2px solid black;
+		margin-top:3rem;
+	
+	}
+
+
+
+.position{
+	text-align: center;
+	font-size:76px;
+	font-weight: bold;
+	border:2px solid black;
+	margin-top:3rem;
+
+	
+	
+}
+.fondbicolore{
+	background-color:linear gradient ;
+	height:15rem;
+	background: rgb(214,230,206);
+	background: linear-gradient(90deg, rgba(214,230,206,1) 45%, rgb(233, 233, 233) 45%, rgba(252,242,242,1) 100%);
+}
+
+.devv{
+	color:#5e30bb;
+	text-align:right;
+	font-weight:bold;
+}
+
+h3{
+	color:#5e30bb;
+	font-size:16px;
+}
+
+h6
+{
+	color:#5e30bb;
+	text-align:center;
+	margin-top:1rem;
+	margin-bottom:2rem;
+	margin-left:10rem;
+			
+}
+
+
+.profil{
+	
+	font-size:14px;
+	margin-top: 2rem;
+
+}
+
+.experiences{
+	font-size:14px;
+	margin-top:2rem;
+	
+}
+
+
+.coordonee{
+	
+	font-size:14px;
+	margin-top: 2rem;
+}
+
+.formation{
+	
+	font-size:14px;
+	margin-top:2rem;
+	
+}
+
+.hardskill
+{
+
+	font-size:14px;
+	margin-bottom:2rem;
+}
+
+.langues{
+
+
+	font-size:14px;
+	margin-top: 2rem;
+	margin-bottom:2rem;
+	
+}
+
+
+
+.contactezmoi{
+
+	font-size:14px;
+	margin-top: 1rem;
+	
+	
+}
+
+.basgreen
+{
+	
+	position:fixed;
+	bottom:0;
+	right:2px;
+	width: 30px;
+	height:300px;
+	background-color:#D6E6CE;
+	z-index:1;
+	
+
+}	
+
+.leqr{
+	text-align: right;
+	margin-bottom:1rem;
+	position:relative;
+	z-index:2;
+	
+}
+	
+
+
+
+footer{
+	font-size:14px;
+	text-align: center;
+}
+
+
+@font-face{ 	
+	font-family: "kollektif"; 	src: url('kollektif.ttf');
+}
