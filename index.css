@@ -14,7 +14,7 @@
 		}
 		}
 
-@media (max-width: 576px){ 
+@media (max-width: 1024px){ 
 
 			.leqr{
 				display:none;
@@ -31,20 +31,9 @@
 	
 
 
-	.position{
-		text-align: center;
-		font-size:45px;
-		font-weight: bold;
-		border:2px solid black;
-		margin-top:3rem;
-	
-	}
-
-
-
 .position{
 	text-align: center;
-	font-size:76px;
+	font-size:45px;
 	font-weight: bold;
 	border:2px solid black;
 	margin-top:3rem;
@@ -155,6 +144,8 @@ h6
 	z-index:2;
 	
 }
+
+
 	
 
 
